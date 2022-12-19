@@ -1,6 +1,6 @@
 # Classification for Kingdom Animalia Model 
 
-![Use JavaScript to model a simple Classification for Kingdom Animalia]()
+Use JavaScript to model a simple Classification for Kingdom Animalia
 
 ## Welcome! 👋
 
